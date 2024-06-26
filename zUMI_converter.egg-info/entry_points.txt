@@ -1,0 +1,2 @@
+[console_scripts]
+zUMI_converter = zUMI_converter.zUMI_converter:main

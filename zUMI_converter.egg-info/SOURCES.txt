@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+zUMI_converter/__init__.py
+zUMI_converter/zUMI_converter.py
+zUMI_converter.egg-info/PKG-INFO
+zUMI_converter.egg-info/SOURCES.txt
+zUMI_converter.egg-info/dependency_links.txt
+zUMI_converter.egg-info/entry_points.txt
+zUMI_converter.egg-info/requires.txt
+zUMI_converter.egg-info/top_level.txt
