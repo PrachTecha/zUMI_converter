@@ -13,7 +13,7 @@ It is a good practice to install this package in a clean environment with `conda
 Then you can install the package by:
 
 ```sh  
-    pip install git+https://github.com/prachsk/zUMI_converter
+    pip install git+https://github.com/PrachTecha/zUMI_converter
 ```
 
 ## Example
