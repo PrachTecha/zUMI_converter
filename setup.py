@@ -20,7 +20,7 @@ setup(
     description='A package for converting zUMI files',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/prachsk/zUMI_converter',
+    url='https://github.com/PrachTecha/zUMI_converter',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
